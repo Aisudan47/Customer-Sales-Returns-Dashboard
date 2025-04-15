@@ -159,6 +159,6 @@ Aspiring Data Analyst passionate about transforming raw data into actionable ins
 This project is released under the MIT License.
 Free to use, modify, and distribute with attribution.
 
-**💬 Feedback & Contributions**
+**💬 Feedback & Contributions** <br>
 Have suggestions or want to contribute?
 Feel free to open an issue or connect via email. Collaboration and feedback are always welcome.
