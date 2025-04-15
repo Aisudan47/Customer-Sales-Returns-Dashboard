@@ -77,14 +77,16 @@ This dashboard is ideal for:
 ---
 
 ## 📁 Project Structure
-
-Customer-Sales-Returns-Dashboard/ ├── Dataset/ │ 
-└── sales_data.xlsx # Cleaned dataset for analysis ├── Dashboard/ │ └── Customer_Sales_Returns.pbix # Power BI project file ├── Images/ │ └── dashboard_preview.png # Dashboard screenshot └── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
+```bash
+Customer-Sales-Returns-Dashboard/
+├── Dataset/
+│   └── sales_data.xlsx  # Cleaned dataset for analysis
+├── Dashboard/
+│   └── Customer_Sales_Returns.pbix  # Power BI project file
+├── Images/
+│   └── dashboard_preview.png  # Dashboard screenshot
+└── README.md  # Project documentation
+```
 ---
 
 ## 📸 Dashboard Preview
