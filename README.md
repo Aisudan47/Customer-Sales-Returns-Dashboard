@@ -91,7 +91,26 @@ Customer-Sales-Returns-Dashboard/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+ ### 1. T&EO Analytics and Insights
+  
+  - #### **T&EO Analytics and Insights Dashboard**
+<img src="T&EO Analytics and Insights only.png" alt="Alt text">
+
+- #### **T&EO Analytics and Insights Dashboard with data**
+<img src="T&EO Analytics and Insights with data.png" alt="Alt text">
+
+- #### **T&EO Analytics and Insights Ai visual**
+<img src="T&EO Analytics and Insights Ai visual.png" alt="Alt text">
+
+
+ ### 2. Power bi Functions
+ 
+ - #### Pin and Manage Alerts
+<img src="pin and manage alerts.png" alt="Alt text">
+
+- #### Subscription
+<img src="powerbi subscription.png" alt="Alt text">
+
 
 ---
 
